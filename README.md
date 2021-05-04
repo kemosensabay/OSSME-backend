@@ -1,1 +1,1 @@
-# OSSME-backend
+# OSSME-backend: no-auth mongoDB
